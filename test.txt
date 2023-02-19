@@ -2,3 +2,4 @@ test eklendi
 testte ilk değişiklik yapıldı
 ss
 abc branşında yaptıgım ilk degisiklik
+bugun 19u
